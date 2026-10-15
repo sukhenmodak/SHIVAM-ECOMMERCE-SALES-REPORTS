@@ -1,30 +1,42 @@
 # Shivam E-commerce Sales Dashboard
 
-A Power BI project analysing sales, profit, quantity, payment modes and state-wise performance.
+A Power BI dashboard analysing e-commerce sales, profit, quantity, payment modes and state-wise performance.
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard](Screenshot%202026-10-15%20233847.png)
+![Dashboard Preview](<Screenshot 2026-10-15 233847.png>)
 
-## Video Demo
+## 🎬 Video Demo
 
-[▶️ Watch the dashboard demo](Shivam%20Dashboard%20f.mp4)
+[▶️ Open Video Demo](<Shivam Dashboad f.mp4>)
 
-## Power BI File
+## 📥 Power BI Project
 
-[📥 View and download the Power BI project](Shivam%20Ecomerce%20Sales%20Data.pbix)
+[Download Power BI Project](<Shivam Ecomerce Sales Data.pbix>)
 
-Open the downloaded file in Power BI Desktop to explore the dashboard.
+Download the file and open it in Power BI Desktop to explore the interactive dashboard.
 
 ## Dashboard Features
 
 - Sales, quantity and profit overview
-- Monthly profit trends
+- Monthly profit and loss trends
 - Profit by product sub-category
-- State and customer performance
+- Top five states and customers
 - Payment mode analysis
+- Product category analysis
 - Quarter and state filters
+
+## Tools Used
+
+- Microsoft Power BI Desktop
 
 ## Created By
 
-Sukhen Modak | MIS & Reporting Professional
+**Sukhen Modak**
+
+Professional in MIS & Reporting | Excel & Power BI
+
+📍 Dhanbad, Jharkhand, India
+
+[LinkedIn](https://www.linkedin.com/in/sukhen-a117b962/) |
+[GitHub](https://github.com/sukhenmodak)
